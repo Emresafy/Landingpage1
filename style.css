@@ -788,7 +788,6 @@ footer{
         /* border: 2px solid blue; */
         display: flex;
         flex-direction: column;
-        /* margin-left: 2rem; */
         width: 100%;
         height: 100vh;
     }
@@ -890,7 +889,6 @@ footer{
         width: 100%;
         height: auto;
         margin-top: 3rem;
-        /* padding-bottom: 5rem; */
     }
     .sec6-container{
         /* border: 2px solid blue; */
@@ -898,7 +896,6 @@ footer{
         flex-direction: column-reverse;
         max-width: 350px;
         margin: auto;
-        /* margin-top: 1rem; */
     }
 
     .items6{
@@ -923,7 +920,6 @@ footer{
     .sec6-img{
         /* border: 2px solid red; */
         width: 100%;
-        /* margin-bottom: 4rem; */
     }
 }
 
